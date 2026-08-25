@@ -1,0 +1,13 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.venv/
+
+# Gitformant 로그 출력물 (Gitformant log output)
+*.txt
+!requirements.txt
